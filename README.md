@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **NEXT,NEST**
 
-- 👯 I’m looking to collaborate on **wabinarwave**
+- 👯 I’m looking to collaborate on **app.webinarwave.com**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Zohaib-Alii](https://github.com/Zohaib-Alii)
 
-- 💬 Ask me about **React,JavaScript,Node,Express,Mongo,TypeScript,HTML,CSS,SASS,LESS,Tailwind,MUI,AntD**
+- 💬 Ask me about **React, JavaScript, Node, Express, Mongo, TypeScript, HTML, CSS, SASS, LESS, Tailwind, MUI, AntD**
 
 - 📫 How to reach me **iamzohaibarain803@gmail.com**
 
